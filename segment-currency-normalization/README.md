@@ -111,4 +111,4 @@ MIT — see [LICENSE](./LICENSE).
 
 ## 🙌 Credits
 
-Built for learning and interview-ready demos. Structure and code designed for clarity, reliability, and real-world alignment.
+ Structure and code designed for clarity, reliability, and real-world alignment.
