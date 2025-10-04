@@ -1,0 +1,18 @@
+{
+  "userId": "U2025_0142",
+  "event": "Subscription Payment",
+  "timestamp": "2025-10-02T10:25:31Z",
+  "properties": {
+    "revenue": 49.99,
+    "currency": "GBP",
+    "plan": "Pro Monthly",
+    "region": "UK",
+    "payment_method": "Credit Card"
+  },
+  "context": {
+    "source": "Stripe",
+    "app": {
+      "name": "BillingDemo"
+    }
+  }
+}

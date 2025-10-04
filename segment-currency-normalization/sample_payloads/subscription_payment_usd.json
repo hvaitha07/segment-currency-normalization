@@ -1,0 +1,18 @@
+{
+  "anonymousId": "anon-9b2e",
+  "event": "Subscription Payment",
+  "timestamp": "2025-10-04T08:05:00Z",
+  "properties": {
+    "revenue": 24.0,
+    "currency": "USD",
+    "plan": "Pro Trial",
+    "region": "US",
+    "payment_method": "Card"
+  },
+  "context": {
+    "source": "Stripe",
+    "app": {
+      "name": "BillingDemo"
+    }
+  }
+}

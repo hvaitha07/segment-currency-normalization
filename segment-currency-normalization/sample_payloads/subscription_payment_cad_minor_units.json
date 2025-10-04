@@ -1,0 +1,18 @@
+{
+  "userId": "U2025_0237",
+  "event": "Subscription Payment",
+  "timestamp": "2025-10-03T15:11:00Z",
+  "properties": {
+    "revenue": 1299,
+    "currency": "CAD",
+    "plan": "Starter Monthly",
+    "region": "CA",
+    "payment_method": "Card"
+  },
+  "context": {
+    "source": "Stripe",
+    "app": {
+      "name": "BillingDemo"
+    }
+  }
+}
